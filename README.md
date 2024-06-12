@@ -85,7 +85,7 @@ Poor data modeling affects the over all performance of the report.
 
 In this project, we have followed Snowflake data modeling method.
 
-https://github.com/Sumitraadhya/Business-Insights-360-Atliq-Hardware/blob/main/Data_model.png
+https://github.com/MMThakur/Business-Insights-360/tree/main)
 
 Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
